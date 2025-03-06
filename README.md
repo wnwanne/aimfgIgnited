@@ -13,18 +13,19 @@ Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-w
 - **Format**: **Virtual, live sessions with Microsoft experts Q&A**  
 - **Objective**: Empowering attendees with actionable AI strategies to accelerate adoption and drive meaningful change in healthcare. 
 
-## **FY25 Upcoming Sessions** 📅  
+## **FY25 Upcoming Sessions** 📅
 
-| **Session** | **Registration** | **Time** |
-|-------------|------------------|----------|
-| **Building AI-Powered Clinical Knowledge Stores with Azure AI Search** | Register [here](https://msit.events.teams.microsoft.com/event/a0042974-bbd6-4eb8-8720-e999192069d7@72f988bf-86f1-41af-91ab-2d7cd011db47) | Friday, March 14th \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
-| **Extraction, Interpretation, and Summarization of Clinical Information with Azure OpenAI** | Register [here](https://msit.events.teams.microsoft.com/event/79fc69e9-e6a8-44e7-9f9d-e47948a44f03@72f988bf-86f1-41af-91ab-2d7cd011db47) | Wednesday, March 26th \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
-| **Reducing Administrative Burdens in Billing and Coding with Azure AI** | Register [here](https://msit.events.teams.microsoft.com/event/3383a1a8-0bdc-4bb4-b8fa-2655680ebcdb@72f988bf-86f1-41af-91ab-2d7cd011db47) | Wednesday, April 9th \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
-| **Optimizing Clinical Data Retrieval with Agentic Systems in Azure AI Foundry** | TBD | Wednesday, April 23rd \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
-| **Accelerating Claims Processing with latest Azure OpenAI reasoning models** | TBD | Wednesday, May 14th \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
-| **Automating Patient Pre-Charting with Realtime Voice Integration** | TBD | Wednesday, May 21st \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
-| **Improving Diagnostic Accuracy in Radiology with AI-Generated Preliminary Reads** | TBD | Wednesday, June 4th \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
-| **From Frustration to Automation: Accelerating Prior Authorization with Azure AI** | TBD | Wednesday, June 18th \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Session**                                                                                         | **Registration**                                                                                                                 | **Time**                                             |
+|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| **Building AI-Powered Clinical Knowledge Stores with Azure AI Search**                               | Register [here](https://msit.events.teams.microsoft.com/event/a0042974-bbd6-4eb8-8720-e999192069d7@72f988bf-86f1-41af-91ab-2d7cd011db47) | Wednesday, March 19, 2025 \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Monitoring and Evaluating LLMs in Clinical Contexts with Azure AI Foundry**                        | Register [here](#)                                                                                                               | Wednesday, April 2, 2025 \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Extraction, Interpretation, and Summarization of Clinical Information with Azure OpenAI**          | Register [here](https://msit.events.teams.microsoft.com/event/79fc69e9-e6a8-44e7-9f9d-e47948a44f03@72f988bf-86f1-41af-91ab-2d7cd011db47) | Wednesday, April 16, 2025 \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Reducing Administrative Burdens in Billing and Coding with Azure AI**                              | Register [here](https://msit.events.teams.microsoft.com/event/3383a1a8-0bdc-4bb4-b8fa-2655680ebcdb@72f988bf-86f1-41af-91ab-2d7cd011db47) | Tuesday, April 29, 2025 \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Optimizing Clinical Data Retrieval with Agentic Systems in Azure AI Foundry**                      | TBD                                                                                                                              | Friday, May 16, 2025 \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Accelerating Claims Processing with Latest Azure OpenAI Reasoning Models**                         | TBD                                                                                                                              | Wednesday, May 28, 2025 \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Automating Patient Pre-Charting with Realtime Voice Integration**                                  | TBD                                                                                                                              | Wednesday, June 11, 2025 \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Improving Diagnostic Accuracy in Radiology with AI-Generated Preliminary Reads**                   | TBD                                                                                                                              | Wednesday, June 25, 2025 \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **From Frustration to Automation: Accelerating Prior Authorization with Azure AI**                   | TBD                                                                                                                              | Friday, July 11, 2025 \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
 
 *Note: All sessions are virtual and free to attend.*  
 
@@ -54,9 +55,9 @@ Have questions, ideas, or want to contribute? **Let’s innovate together!** Rea
 
 ## **Spread the Word** 📣  
 
-Help us **transform healthcare AI** by sharing this event with your network:  
+Help us **transform the healthcare industry** by sharing these events with your network:  
 
-🔹 **Share on LinkedIn** → [AI HLS Ignited Event Page](https://www.linkedin.com/events/ai-hls-ignited)  
+🔹 **Share on LinkedIn** → [AI HLS Ignited Event Page](https://aka.ms//aihlsignited)  
 
 ## **License**
 
