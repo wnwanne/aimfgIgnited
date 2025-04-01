@@ -26,7 +26,7 @@ Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-w
 | **Automating Patient Pre-Charting with Realtime Voice Integration**                                | Register [here](https://msit.events.teams.microsoft.com/event/666192e9-8d8b-4486-a0df-448d0e0e1073@72f988bf-86f1-41af-91ab-2d7cd011db47) | Wednesday, June 18, 2025 \| 11:00 AM – 12:00 PM PDT \| 1:00 PM – 2:00 PM CDT   | Available Soon                                                                            |
 | **Improving Diagnostic Accuracy in Radiology with AI-Generated Preliminary Reads**                 | Register [here](https://msit.events.teams.microsoft.com/event/47ba5830-aca2-4b7b-9959-349dd8bedd90@72f988bf-86f1-41af-91ab-2d7cd011db47) | Wednesday, July 2, 2025 \| 11:00 AM – 12:00 PM PDT \| 1:00 PM – 2:00 PM CDT    | Available Soon                                                                            |
 | **From Frustration to Automation: Accelerating Prior Authorization with Azure AI**                 | Register [here](https://msit.events.teams.microsoft.com/event/c69a255c-bdb4-4e4f-b3e9-0c1478b6eb73@72f988bf-86f1-41af-91ab-2d7cd011db47) | Wednesday, July 16, 2025 \| 11:00 AM – 12:00 PM PDT \| 1:00 PM – 2:00 PM CDT   | Available Soon  
-                                                                          |
+
 ## **Who Should Attend?** 🎯  
 
 🔹 **Healthcare Executives & Decision-Makers**  
