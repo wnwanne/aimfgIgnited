@@ -86,5 +86,3 @@ In radiology workflows, X-ray reports and image metadata contain valuable clinic
 
 <br>
 
-> [!IMPORTANT]  
-> This software is provided for demonstration purposes only. It is not intended to be relied upon for any production workload. The creators of this software make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the software or related content. Any reliance placed on such information is strictly at your own risk.
