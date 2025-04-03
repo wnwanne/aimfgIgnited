@@ -6,7 +6,7 @@
 
 ### **Assets**
 
-- **[MedIndexer Accelerator](https://github.com/Azure-Samples/aihlsignited-medindexer)** for advanced indexing and retrieval.
+- **[MedIndexer Accelerator](https://github.com/Azure-Samples/aihlsignited-medindexer)** – An accelerator for indexing and retrieving unstructured clinical data.
 - **[.pptx/Slides](https://github.com/microsoft/aihlsIgnited/blob/main/hlsignited/FY25/01-Knowledge-Stores/assets)**
 
 
