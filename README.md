@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="utils/images/AI_HLS_Ignited.jpg" alt="AI MFG Ignited Banner" style="width:100%; height:auto;">
+  <img src="utils/images/AI MFG Ignited.jpg" alt="AI MFG Ignited Banner" style="width:100%; height:auto;">
 </div>
 
 <br>
