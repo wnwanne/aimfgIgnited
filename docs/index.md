@@ -10,7 +10,11 @@
   overflow: hidden;
   text-align: center;
 ">
-   <img src="utils/images/AI MFG Ignited.jpg" alt="AI MFG Ignited Banner" style="width:100%; height:auto;">
+  <video autoplay muted loop playsinline style="width:100%; height:auto;">
+    <source src="assets/videos/AI MFG Ignited.mp4" type="video/mp4">
+    <!-- Fallback image if video is not supported -->
+    <img src="assets/images/AI MFG Ignited.jpg" alt="AI HLS Ignited Banner">
+  </video>
 </div>
 
 <br>
@@ -63,4 +67,4 @@ Have questions, ideas, or want to contribute? **Let’s innovate together!** Rea
 Help us **transform the manufacturing industry** by sharing these events with your network:  
 
 🔹 **Share on LinkedIn** → [AI MFG Ignited Event Page](https://aka.ms/aimfgIgnited)  
-🔹 **Visit the GitHub Repo for more details** → [AI MFG Ignited GitHub Repository](https://github.com/microsoft/aimfgIgnited)
+🔹 **Visit the GitHub Repo for more details** → [AI MFG Ignited GitHub Repository](https://github.com/wnwanne/aimfgIgnited/tree/main)
